@@ -1,0 +1,9 @@
+com\kuis1079\Kuis1079\entity\Cv.class
+com\kuis1079\Kuis1079\repo\NilaiRepo.class
+com\kuis1079\Kuis1079\service\CvService.class
+com\kuis1079\Kuis1079\service\NilaiService.class
+com\kuis1079\Kuis1079\Kuis1079Application.class
+com\kuis1079\Kuis1079\controller\CvController.class
+com\kuis1079\Kuis1079\entity\Nilai.class
+com\kuis1079\Kuis1079\repo\CvRepo.class
+com\kuis1079\Kuis1079\controller\NilaiController.class
